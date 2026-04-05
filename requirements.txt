@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers<5
+torch
+requests
+pydantic
+omegaconf
